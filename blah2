@@ -1,0 +1,44 @@
+<html>
+  
+  <head>
+    <title>Ryan's page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+<body>
+  <div>
+  <img src="https://i.imgur.com/9HTnt3Z.png"/>
+  <h1>Ryan Insalaco</h1>
+  <a href="https://www.linkedin.com/in/ryan-insalaco-84095a148/">LinkedIn</a>
+  <a href="Ryanmegalul.github.io">GitHub</a>
+  <div>
+  </body>
+  
+  <style>
+    img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+      border-radius: 0%;
+        overflow: hidden;
+    }
+  
+    body {
+      Background-color: #e84393;
+        
+      display: flex;
+     align-items: center;
+      justify-content: center;
+      Height: 100vh;
+      
+      font-family: Arial;
+    }
+    
+    div {
+      background-color: purple;
+      padding: 16px;
+        margin: 0;
+      text-align: center;
+    }
+  </style>
+</html>
